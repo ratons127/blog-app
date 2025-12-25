@@ -1,0 +1,27 @@
+<%- include('../partials/header') %>
+<section class="hero">
+  <h1>Latest Posts</h1>
+  <p>Read the newest updates from the community.</p>
+</section>
+
+<section class="posts">
+  <% if (posts.length === 0) { %>
+    <p>No posts yet.</p>
+  <% } %>
+  <% posts.forEach(post => { %>
+    <article class="card">
+      <h2><a href="/posts/<%= post._id %>"><%= post.title %></a></h2>
+      <p><%= post.content.substring(0, 200) %>...</p>
+    </article>
+  <% }) %>
+</section>
+
+<div class="pagination">
+  <% if (page > 1) { %>
+    <a href="/?page=<%= page - 1 %>">Previous</a>
+  <% } %>
+  <% if (page < pages) { %>
+    <a href="/?page=<%= page + 1 %>">Next</a>
+  <% } %>
+</div>
+<%- include('../partials/footer') %>
