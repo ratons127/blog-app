@@ -1,0 +1,242 @@
+[
+  {
+    "id": "course-1",
+    "slug": "product-design-launchpad",
+    "title": "Product Design Launchpad",
+    "category": "Design",
+    "level": "Beginner",
+    "duration": "6 weeks",
+    "rating": 4.8,
+    "price": 129,
+    "shortDescription": "Master the foundations of digital product design with real-world studio prompts.",
+    "image": "/images/course-design.svg",
+    "instructor": {
+      "name": "Avery Lane",
+      "role": "Lead Product Designer",
+      "company": "Brightline Studio",
+      "bio": "Avery has led design systems for fintech and health startups, helping teams ship empathetic experiences.",
+      "avatar": "/images/instructor-avery.svg"
+    },
+    "overview": "Build confidence in UX research, interaction design, and prototyping. This course guides you from idea to validated prototype with weekly critiques.",
+    "whatYouWillLearn": [
+      "Map user journeys and uncover friction points",
+      "Create wireframes and interactive prototypes",
+      "Collaborate with product and engineering teams",
+      "Present design decisions with clarity"
+    ],
+    "curriculum": [
+      {
+        "title": "Design foundations",
+        "lessons": ["Human-centered design", "Design thinking sprint", "UX research basics"]
+      },
+      {
+        "title": "Interaction patterns",
+        "lessons": ["Navigation systems", "Content hierarchy", "Micro-interactions"]
+      },
+      {
+        "title": "Prototype to pitch",
+        "lessons": ["High-fidelity prototypes", "Usability testing", "Portfolio storytelling"]
+      }
+    ]
+  },
+  {
+    "id": "course-2",
+    "slug": "frontend-velocity",
+    "title": "Frontend Velocity",
+    "category": "Development",
+    "level": "Intermediate",
+    "duration": "8 weeks",
+    "rating": 4.7,
+    "price": 149,
+    "shortDescription": "Ship modern web interfaces using React, TypeScript, and performance-first patterns.",
+    "image": "/images/course-frontend.svg",
+    "instructor": {
+      "name": "Jordan Kim",
+      "role": "Senior Frontend Engineer",
+      "company": "Nova Labs",
+      "bio": "Jordan builds design systems and scalable frontends for global SaaS companies.",
+      "avatar": "/images/instructor-jordan.svg"
+    },
+    "overview": "Go beyond tutorials and build production-ready UI with state management, API integration, and testing strategies.",
+    "whatYouWillLearn": [
+      "Structure scalable component libraries",
+      "Optimize Core Web Vitals",
+      "Build accessible, responsive layouts",
+      "Automate tests and QA workflows"
+    ],
+    "curriculum": [
+      {
+        "title": "Modern React stack",
+        "lessons": ["Type-safe components", "Data fetching patterns", "UI state management"]
+      },
+      {
+        "title": "Performance and testing",
+        "lessons": ["Bundle analysis", "Performance budgets", "Testing Library strategies"]
+      },
+      {
+        "title": "Delivery playbook",
+        "lessons": ["CI pipelines", "Feature flags", "Release checklists"]
+      }
+    ]
+  },
+  {
+    "id": "course-3",
+    "slug": "growth-marketing-sprints",
+    "title": "Growth Marketing Sprints",
+    "category": "Marketing",
+    "level": "Beginner",
+    "duration": "5 weeks",
+    "rating": 4.6,
+    "price": 99,
+    "shortDescription": "Run experiments that grow your audience with confidence and data-backed insight.",
+    "image": "/images/course-marketing.svg",
+    "instructor": {
+      "name": "Priya Singh",
+      "role": "Growth Strategist",
+      "company": "Echo Growth",
+      "bio": "Priya has scaled acquisition programs for emerging consumer brands across multiple channels.",
+      "avatar": "/images/instructor-priya.svg"
+    },
+    "overview": "Create a growth system that blends messaging, experimentation, and analytics. Build campaigns you can measure and repeat.",
+    "whatYouWillLearn": [
+      "Define growth metrics and north stars",
+      "Plan sprint-based experiments",
+      "Craft conversion-focused messaging",
+      "Analyze results and iterate quickly"
+    ],
+    "curriculum": [
+      {
+        "title": "Growth foundations",
+        "lessons": ["Positioning", "Audience research", "Channel mapping"]
+      },
+      {
+        "title": "Experimentation",
+        "lessons": ["Hypothesis building", "Landing page testing", "Campaign dashboards"]
+      },
+      {
+        "title": "Scaling",
+        "lessons": ["Lifecycle automation", "Retention strategies", "Executive reporting"]
+      }
+    ]
+  },
+  {
+    "id": "course-4",
+    "slug": "data-analytics-studio",
+    "title": "Data Analytics Studio",
+    "category": "Data",
+    "level": "Intermediate",
+    "duration": "7 weeks",
+    "rating": 4.9,
+    "price": 179,
+    "shortDescription": "Turn raw data into executive-ready insights with dashboards and storytelling.",
+    "image": "/images/course-data.svg",
+    "instructor": {
+      "name": "Lena Ortiz",
+      "role": "Analytics Lead",
+      "company": "Compass Metrics",
+      "bio": "Lena specializes in translating complex data into high-impact executive decisions.",
+      "avatar": "/images/instructor-lena.svg"
+    },
+    "overview": "Learn modern analytics workflows, from SQL fundamentals to dashboard delivery. Includes real client datasets.",
+    "whatYouWillLearn": [
+      "Write clean SQL queries",
+      "Build KPI dashboards",
+      "Tell data stories with confidence",
+      "Create self-service data docs"
+    ],
+    "curriculum": [
+      {
+        "title": "Data foundations",
+        "lessons": ["SQL essentials", "Data modeling", "Cleaning workflows"]
+      },
+      {
+        "title": "Visualization",
+        "lessons": ["Chart selection", "Dashboard layout", "Accessibility in data viz"]
+      },
+      {
+        "title": "Analytics delivery",
+        "lessons": ["Stakeholder reviews", "Metric tracking", "Insight storytelling"]
+      }
+    ]
+  },
+  {
+    "id": "course-5",
+    "slug": "creative-business-lab",
+    "title": "Creative Business Lab",
+    "category": "Business",
+    "level": "Beginner",
+    "duration": "4 weeks",
+    "rating": 4.5,
+    "price": 89,
+    "shortDescription": "Build a lean business plan, pricing strategy, and launch roadmap for your idea.",
+    "image": "/images/course-business.svg",
+    "instructor": {
+      "name": "Miguel Duarte",
+      "role": "Business Coach",
+      "company": "Northwind Partners",
+      "bio": "Miguel helps founders bring creative ventures to market through clear business planning.",
+      "avatar": "/images/instructor-miguel.svg"
+    },
+    "overview": "A practical crash course for early-stage founders. You will craft a positioning brief, MVP plan, and launch checklist.",
+    "whatYouWillLearn": [
+      "Define your business model",
+      "Price your offer with confidence",
+      "Plan a 30-day launch",
+      "Create a compelling pitch deck"
+    ],
+    "curriculum": [
+      {
+        "title": "Vision and positioning",
+        "lessons": ["Mission crafting", "Customer profiles", "Competitive landscape"]
+      },
+      {
+        "title": "Offer design",
+        "lessons": ["Pricing frameworks", "Packaging", "Pilot feedback loops"]
+      },
+      {
+        "title": "Launch prep",
+        "lessons": ["Marketing checklist", "Sales outreach", "Investor updates"]
+      }
+    ]
+  },
+  {
+    "id": "course-6",
+    "slug": "leadership-for-teams",
+    "title": "Leadership for Teams",
+    "category": "Leadership",
+    "level": "Advanced",
+    "duration": "6 weeks",
+    "rating": 4.7,
+    "price": 159,
+    "shortDescription": "Grow your leadership toolkit with coaching frameworks and strategic rituals.",
+    "image": "/images/course-leadership.svg",
+    "instructor": {
+      "name": "Simone Park",
+      "role": "Executive Coach",
+      "company": "Harbor Collective",
+      "bio": "Simone mentors emerging leaders with a focus on inclusive team growth and communication.",
+      "avatar": "/images/instructor-simone.svg"
+    },
+    "overview": "Learn to lead with empathy, deliver feedback, and build team rituals that sustain high performance.",
+    "whatYouWillLearn": [
+      "Run productive 1:1s",
+      "Coach for growth and performance",
+      "Build team rituals",
+      "Navigate change management"
+    ],
+    "curriculum": [
+      {
+        "title": "Leadership mindset",
+        "lessons": ["Emotional intelligence", "Trust building", "Leadership presence"]
+      },
+      {
+        "title": "Team systems",
+        "lessons": ["Feedback frameworks", "Decision-making", "Team health metrics"]
+      },
+      {
+        "title": "Scaling impact",
+        "lessons": ["Strategic planning", "Stakeholder alignment", "Cross-team collaboration"]
+      }
+    ]
+  }
+]
