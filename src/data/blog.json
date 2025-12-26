@@ -1,0 +1,74 @@
+[
+  {
+    "id": "blog-1",
+    "slug": "designing-learning-paths",
+    "title": "Designing learning paths that keep momentum",
+    "excerpt": "A practical approach to creating learning plans that feel achievable, motivating, and flexible.",
+    "cover": "/images/blog-learning-paths.svg",
+    "author": "Elena Watts",
+    "date": "2024-05-12",
+    "tags": ["Learning", "Productivity"],
+    "content": [
+      {
+        "heading": "Why momentum matters",
+        "body": "Learners stay engaged when they can see progress quickly. Breaking a goal into smaller milestones keeps attention high and builds confidence."
+      },
+      {
+        "heading": "Balance structure with flexibility",
+        "body": "A strong learning path has checkpoints, but it also adapts to real life. Use short weekly sprints and leave space for reflection."
+      },
+      {
+        "heading": "Measure growth, not just completion",
+        "body": "Tracking outcomes like projects shipped or skills applied keeps the focus on growth rather than just finishing lessons."
+      }
+    ]
+  },
+  {
+    "id": "blog-2",
+    "slug": "future-of-remote-learning",
+    "title": "The future of remote learning teams",
+    "excerpt": "Distributed teams are reshaping how we learn. Here are the rituals that keep learners connected.",
+    "cover": "/images/blog-remote-learning.svg",
+    "author": "Marcus Lee",
+    "date": "2024-04-24",
+    "tags": ["Remote Work", "Community"],
+    "content": [
+      {
+        "heading": "Create shared rituals",
+        "body": "Weekly async check-ins, demo days, and virtual coworking help build belonging even across time zones."
+      },
+      {
+        "heading": "Encourage peer feedback",
+        "body": "Peer feedback loops bring accountability and expose learners to new perspectives." 
+      },
+      {
+        "heading": "Make resources easy to find",
+        "body": "Centralized resource libraries and searchable notes reduce friction for remote learners."
+      }
+    ]
+  },
+  {
+    "id": "blog-3",
+    "slug": "cohort-based-learning",
+    "title": "Cohort-based learning: what makes it work",
+    "excerpt": "Explore how cohort learning drives completion rates and creates lasting community.",
+    "cover": "/images/blog-cohort.svg",
+    "author": "Hana Morita",
+    "date": "2024-03-30",
+    "tags": ["Community", "Strategy"],
+    "content": [
+      {
+        "heading": "Shared milestones",
+        "body": "Cohorts thrive when the group celebrates milestones together. It keeps energy high and reinforces progress."
+      },
+      {
+        "heading": "Facilitator guidance",
+        "body": "A facilitator helps keep discussions focused, offers accountability, and provides expert insight."
+      },
+      {
+        "heading": "Post-cohort engagement",
+        "body": "Encourage alumni networks so learning continues long after the cohort ends."
+      }
+    ]
+  }
+]
